@@ -1,1 +1,2 @@
-# linux-shell-assignment
+# Basics-of-linux-and-open-source-tools-assignment-2-
+This assignment provides a practical understanding of the Linux system, its commands, and automation using shell scripting. It guides through the complete process of installing Linux using WSL. The assignment also covers the implementation of essential Linux commands used for navigation, file handling, system monitoring, and network management.
